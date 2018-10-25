@@ -1,0 +1,7 @@
+{
+  "private":  true,
+  "devDependencies": {
+    "umi": "2.x",
+    "umi-plugin-gh-pages":  "0.x"
+  }
+}
